@@ -2,6 +2,8 @@
 
 ## Introduction
 This repository contains code and documentation for a project that focuses on estimating the impact of living in a floodplain on apartment rental prices. Specifically, we aim to determine how floodplains affect apartment rental prices, with a particular focus on Fukuoka Prefecture, Japan. Floodplains are areas with a higher-than-normal risk of flooding, typically located near major rivers, lakes, or streams.
+The RAW DATA is the following: Final Empirical Project Data.RData
+The Code used for my analysis: Laura Resina_236BF07B_Final Empirical Project
 
 ## Motivation
 Understanding the relationship between floodplains and apartment rental prices is crucial for policymakers and economists. It helps in making informed decisions about flood protection measures, such as building dams, levees, and flood walls. Economists typically employ hedonic price models to analyze this relationship. These models decompose apartment rental prices into prices for each of their attributes, allowing us to estimate the impact of living in a floodplain.
